@@ -41285,10 +41285,32 @@
 		)
 	)
 	(gr_circle
-		(center 172.479287 9.200061)
-		(end 176.479287 9.200061)
+		(center 104.5 86)
+		(end 106.5 86)
 		(stroke
-			(width 0.1)
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "051f62a8-ee95-4de2-9011-69bbad4c957a")
+	)
+	(gr_circle
+		(center 170.5 10)
+		(end 172.5 10)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "07da98c3-515e-442c-83a5-5c9644651cc7")
+	)
+	(gr_circle
+		(center 170.5 10)
+		(end 174.5 10)
+		(stroke
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
@@ -41296,21 +41318,43 @@
 		(uuid "0dd0ea99-1803-4ac5-9755-80af9baee16b")
 	)
 	(gr_circle
-		(center 248.979287 9.200061)
-		(end 252.979287 9.200061)
+		(center 247.5 10)
+		(end 251.5 10)
 		(stroke
-			(width 0.1)
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
 		(layer "Cmts.User")
 		(uuid "11d23c83-78b9-4ebe-9101-06a3c13708ba")
 	)
-	(gr_circle
-		(center 103.479287 86.200061)
-		(end 107.479287 86.200061)
+	(gr_rect
+		(start 82.5 15)
+		(end 97 24.5)
 		(stroke
 			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "Cmts.User")
+		(uuid "169b33ef-7e8d-4cbf-971c-a79e3b083c4c")
+	)
+	(gr_rect
+		(start 208 70)
+		(end 231 87)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "Cmts.User")
+		(uuid "1c7ac9f0-7611-462a-ad9f-6e4fd0ffa56e")
+	)
+	(gr_circle
+		(center 104.5 86)
+		(end 108.5 86)
+		(stroke
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
@@ -41318,21 +41362,54 @@
 		(uuid "39a6f8ff-10e4-4057-a620-f8bd8adbfc9a")
 	)
 	(gr_circle
-		(center 25.479287 86.200061)
-		(end 29.479287 86.200061)
+		(center 38.5 10)
+		(end 40.5 10)
 		(stroke
-			(width 0.1)
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "503fb375-53df-4e28-ae45-65eb54431029")
+	)
+	(gr_circle
+		(center 181 86)
+		(end 183 86)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "50d866d5-5b17-4036-bd30-9fd6c9ed493c")
+	)
+	(gr_circle
+		(center 26.5 86)
+		(end 30.5 86)
+		(stroke
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
 		(layer "Cmts.User")
 		(uuid "6d5f1dca-eac7-4e12-91ba-a1e5745d1098")
 	)
-	(gr_circle
-		(center 260.479287 86.200061)
-		(end 264.479287 86.200061)
+	(gr_rect
+		(start 54 70)
+		(end 77 87)
 		(stroke
 			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "Cmts.User")
+		(uuid "710a7997-fcbd-4345-90ce-cf661359ec13")
+	)
+	(gr_circle
+		(center 259 86)
+		(end 263 86)
+		(stroke
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
@@ -41340,10 +41417,32 @@
 		(uuid "73929d1d-4797-4ea3-b172-7340eb916604")
 	)
 	(gr_circle
-		(center 36.979287 9.200061)
-		(end 32.979287 9.200061)
+		(center 26.5 86)
+		(end 28.5 86)
 		(stroke
-			(width 0.1)
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "7f6dfb8c-3cb0-4c3e-8379-f718a5a56c91")
+	)
+	(gr_circle
+		(center 259 86)
+		(end 261 86)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "837881c1-7d96-4f23-b987-fe961c692b28")
+	)
+	(gr_circle
+		(center 38.5 10)
+		(end 42.5 10)
+		(stroke
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
@@ -41351,10 +41450,32 @@
 		(uuid "8a9791bb-bbd8-425b-8bf1-4aec68e74a97")
 	)
 	(gr_circle
-		(center 181.979287 86.200061)
-		(end 185.979287 86.200061)
+		(center 115 10)
+		(end 117 10)
 		(stroke
-			(width 0.1)
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "91295adf-0c7e-4a78-9e30-cd1ec4342beb")
+	)
+	(gr_circle
+		(center 247.5 10)
+		(end 249.5 10)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "915fa0d1-7601-4cdb-ae93-81ed083015bd")
+	)
+	(gr_circle
+		(center 181 86)
+		(end 185 86)
+		(stroke
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
@@ -41362,10 +41483,10 @@
 		(uuid "b14952c8-a615-4942-81b5-a55ee0e497b8")
 	)
 	(gr_circle
-		(center 112.979287 9.200061)
-		(end 116.979287 9.200061)
+		(center 115 10)
+		(end 119 10)
 		(stroke
-			(width 0.1)
+			(width 0.2)
 			(type default)
 		)
 		(fill none)
@@ -52500,5 +52621,37 @@
 				(xy 12.587514 35.176093) (xy 12.312903 35.23583) (xy 12.312903 34.536653) (xy 16.837016 34.536653)
 			)
 		)
+	)
+	(group ""
+		(uuid "2f1bfd03-ca39-4b98-9798-3fbf0cb39154")
+		(members "11d23c83-78b9-4ebe-9101-06a3c13708ba" "915fa0d1-7601-4cdb-ae93-81ed083015bd")
+	)
+	(group ""
+		(uuid "4265d66f-1f06-4e33-8687-c5780b1aaac8")
+		(members "91295adf-0c7e-4a78-9e30-cd1ec4342beb" "d7a90985-1873-4342-be04-3fe4e87ad182")
+	)
+	(group ""
+		(uuid "762952c1-4c78-474c-a8ec-692ff0110705")
+		(members "503fb375-53df-4e28-ae45-65eb54431029" "8a9791bb-bbd8-425b-8bf1-4aec68e74a97")
+	)
+	(group ""
+		(uuid "8f88533f-4187-4749-85c3-e4fac37a7520")
+		(members "051f62a8-ee95-4de2-9011-69bbad4c957a" "39a6f8ff-10e4-4057-a620-f8bd8adbfc9a")
+	)
+	(group ""
+		(uuid "915fd0de-ad87-473e-90c5-279d2d4e4e8e")
+		(members "73929d1d-4797-4ea3-b172-7340eb916604" "837881c1-7d96-4f23-b987-fe961c692b28")
+	)
+	(group ""
+		(uuid "d4b9536f-081f-4d53-a662-0c202db48a68")
+		(members "07da98c3-515e-442c-83a5-5c9644651cc7" "0dd0ea99-1803-4ac5-9755-80af9baee16b")
+	)
+	(group ""
+		(uuid "f2d2084a-c3ca-4c59-a3d2-540678eb197a")
+		(members "6d5f1dca-eac7-4e12-91ba-a1e5745d1098" "7f6dfb8c-3cb0-4c3e-8379-f718a5a56c91")
+	)
+	(group ""
+		(uuid "fdf1f21f-ba39-47c8-8b54-c7ea7a0edf2e")
+		(members "50d866d5-5b17-4036-bd30-9fd6c9ed493c" "b14952c8-a615-4942-81b5-a55ee0e497b8")
 	)
 )
